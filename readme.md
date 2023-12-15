@@ -1,8 +1,8 @@
 # Workout Tracker
 
-**_Map Integration and Data Storage_**
+**_JavaScript Object-Oriented Workout Tracker - Map Integration and Data Storage_**
 
-#### This JavaScript App represents a workout tracker application featuring:
+#### This JavaScript Application represents a workout tracker, really focused on JavaScript objects and classes, featuring:
 
 - **Workout Class Hierarchy:** Utilizes classes to create workout instances with specific properties and methods for running and cycling workouts.
 
@@ -22,7 +22,7 @@
 
 - **Reset Functionality:** Provides a method to reset the stored workouts.
 
-_This is a JavaScript workout tracking application with a focus on map integration, user interactivity, and data persistence._
+_This code showcases a strong emphasis on JavaScript objects and classes, making it a robust foundation for a workout tracking application with advanced object-oriented programming principles._
 
 <a href="https://javascirpt-wroktraking-project.surge.sh/" target="_blank">Live Preview</a>
 
